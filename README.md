@@ -20,3 +20,17 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+
+## 部署到heroku
+
+``` bash
+# 访问链接：https://starmovies.herokuapp.com/
+
+# 使用：https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+
+# 账号： account: dwellerofuniverse@gmail.com pw: (找我)
+
+# 更新: git push heroku master
+
+```
